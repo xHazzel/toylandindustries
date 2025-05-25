@@ -1,0 +1,17 @@
+abbreviation: KN
+available: true
+classes: 16
+colour: 184
+id: 0
+label: KNET
+longName: knete
+name: Knete
+penaltyLength: 255
+penaltyLowerBound: 0
+price: 4112
+sprite:
+  filename: cargoes/knete.png
+  left: 0
+  top: 0
+unitName: Tonnes
+weight: 16

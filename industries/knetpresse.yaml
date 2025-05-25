@@ -1,0 +1,18 @@
+available: true
+callbacks: ''
+cargoAcceptance:
+- KNET
+cargoProduction:
+- GUEN
+colour: 1
+fundCostMultiplier: 100
+id: 1
+layout:
+- - - -1
+name: Knetpresse
+placement: anywhere
+probabilityInGame: 5
+probabilityMapGen: 3
+prospectChance: 0
+tiles: []
+type: secondary

@@ -1,0 +1,30 @@
+available: true
+callbacks: ''
+cargoAcceptance: []
+cargoProduction:
+- KNET
+colour: 1
+fundCostMultiplier: 100
+id: 0
+layout:
+- - - 0
+name: Knetmine
+placement: anywhere
+probabilityInGame: 5
+probabilityMapGen: 3
+prospectChance: 75
+tiles:
+- sprites:
+  - alwaysDraw: true
+    drawType: recolour
+    sprite:
+      filename: industries/knetmine/2.png
+      left: -31
+      top: 0
+  - alwaysDraw: false
+    drawType: recolour
+    sprite:
+      filename: industries/knetmine/1.png
+      left: -24
+      top: -5
+type: primary

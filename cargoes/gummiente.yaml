@@ -1,0 +1,17 @@
+abbreviation: GE
+available: true
+classes: 32
+colour: 51
+id: 1
+label: GUEN
+longName: gummiente
+name: Gummiente
+penaltyLength: 255
+penaltyLowerBound: 0
+price: 4112
+sprite:
+  filename: cargoes/gummiente.png
+  left: 0
+  top: 0
+unitName: Crates
+weight: 16
